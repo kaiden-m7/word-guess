@@ -1,6 +1,6 @@
 # Constructor-Word-Guess
 A command-line word guessing game that was created using constructors.
-**Guess the Planet names of our Solar System**
+**Guess the words from a kitchen!**
 ## How to Play
 - Navigate to the root of game in your terminal
 
